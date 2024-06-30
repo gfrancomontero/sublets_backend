@@ -1,5 +1,11 @@
+# RUN THIS ON TERMINAL TO RECACHE GITIGNORE CONFIGURATION
+# git rm -r. .
+
+
+.DS_Store
 *.gem
 *.rbc
+*.log
 /.config
 /coverage/
 /InstalledFiles
